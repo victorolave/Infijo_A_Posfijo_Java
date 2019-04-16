@@ -42,6 +42,6 @@ Para la programación de este programa se utilizo:
 * [Java](https://www.java.com/es/) - Lenguaje de programación.
 * [Apache Netbeans](https://netbeans.apache.org/) - Entorno de desarrollo.
 
-## Autores ✒️
+## Autore ✒️
 
 con ❤️ por   **Victor Rene Olave** | [victorolave](https://github.com/victorolave)
