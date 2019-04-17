@@ -1,4 +1,4 @@
-# Conversión de Expresiones Infijas a Expresiones Postfijas
+# Conversión de Expresiones Infijas a Expresiones Postfijas con Java
 
 Programa de consola con el lenguaje de programación Java que permite la conversión de expresiones mateaticas digitadas de manera infija a manera postfija.
 
